@@ -1,0 +1,35 @@
+Dados P1:
+Data: 23/7/2021
+Horario: 2:10:33
+Nome do medico: Lucas
+Nome do paciente: Pedro
+Quantidade de consultas: 1
+
+|###########################################################|
+Dados P2:
+
+DADOS CONSULTA
+
+Data: 20/2/2020
+Horario: 22:10:2
+Nome do medico: luan
+Nome do paciente: breno
+Quantidade: 2
+
+|###########################################################|
+P1 alteracao:
+Dados atual P1:
+
+Data: 23/7/2021
+Horario: 2:10:33
+Nome do medico: Lucas
+Nome do paciente: Pedro
+Dados P1 depois da alteracao:
+
+Data: 10/10/2020
+Horario: 14:7:8
+Nome do medico: Luiz
+Nome do paciente: Josevaldo
+Quantidade de consultas: 2
+
+Quantidade total de consultas: 3
